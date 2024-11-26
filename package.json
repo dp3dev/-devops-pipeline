@@ -1,0 +1,14 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "Simple app for Jenkins pipeline demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
